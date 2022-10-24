@@ -1,0 +1,11 @@
+* {
+  font-family: Bebas Neue
+}
+
+#bg {
+  background-image: linear-gradient(rgba(51, 15, 87, 0.253),rgba(51, 15, 87, 0.253)), 
+  url(images//home-main.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
