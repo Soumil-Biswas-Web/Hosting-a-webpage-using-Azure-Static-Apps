@@ -1,7 +1,5 @@
-# Vanilla JavaScript App
+This is a rudimentary project for hosting a website using the Azure Static Apps service.
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
+The website is a prototype for The DVDR Group of cinematic channels.
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
-
-This repo has a dev container. This means if you open it inside a [GitHub Codespace](https://github.com/features/codespaces), or using [VS Code with the remote containers extension](https://code.visualstudio.com/docs/remote/containers), it will be opened inside a container with all the dependencies already installed.
+Use the following link to access the websit: https://yellow-island-02df9db10.2.azurestaticapps.net/source/DVDR-main.html
