@@ -10,6 +10,8 @@
 
 If you wish to host your own web page through Azure static Apps, follow this [link](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-how-to?tabs=azure-portal).
 
+A full step-by-step guide for the process can be found [here](https://github.com/Soumil-Biswas-Web/frt-static-apps/blob/main/README.md).
+
 # GitHub Repository
 
 If you want to host your own web apps, you can start by storing your files in a GitHub Repository [here](https://github.com/new).
